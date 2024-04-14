@@ -27,7 +27,7 @@ There'll be no green bottles hanging on the wall.
 ``` 
 
 <ul>
-<li> **parameter<dfn>n</dfn> is 1 to 10** </li>
-<li> **newline terminates every line (including the last)** </li>
-<li> **don't forget the blank lines between the verses** </li>
+<li> parameter<dfn>n</dfn> is 1 to 10 </li>
+<li> newline terminates every line (including the last) </li>
+<li> don't forget the blank lines between the verses </li>
 </ul>
