@@ -1,12 +1,13 @@
 # Ten Green Bottles
 
-# Task
+### Task
 
 Write some amazing code to reproduce the above lyrics starting from n green bottles!.
 
 
 For example:
-- `Ten green bottles hanging on the wall,
+```sh
+Ten green bottles hanging on the wall,
 Ten green bottles hanging on the wall,
 And if one green bottle should accidentally fall,
 There'll be nine green bottles hanging on the wall.
@@ -22,7 +23,8 @@ Seven green bottles hanging on the wall...
 One green bottle hanging on the wall,
 One green bottle hanging on the wall,
 If that one green bottle should accidentally fall,
-There'll be no green bottles hanging on the wall. ` 
+There'll be no green bottles hanging on the wall.
+``` 
 
 <ul>
 <li>parameter<dfn>n</dfn> is 1 to 10</li>
