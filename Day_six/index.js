@@ -11,7 +11,6 @@ function primeChecker(a) {
    return true
 }
 
-
 function sexyPrime(x, y){
     let result = [x,y].sort((a,b) => a - b).reduce((acc,curr) => acc = curr - acc,0);
     return result === 6 && (primeChecker(x)&&primeChecker(y));
